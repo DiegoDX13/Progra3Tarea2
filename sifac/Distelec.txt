@@ -1,0 +1,17 @@
+101001,SAN JOSE    ,CENTRAL               ,CARMEN                   
+101002,SAN JOSE    ,CENTRAL               ,MERCED                   
+101003,SAN JOSE    ,CENTRAL               ,HOSPITAL                 
+103001,SAN JOSE    ,DESAMPARADOS          ,DESAMPARADOS             
+103002,SAN JOSE    ,DESAMPARADOS          ,SAN MIGUEL               
+103007,SAN JOSE    ,DESAMPARADOS          ,PATARRA                  
+108001,SAN JOSE    ,GOICOECHEA            ,GUADALUPE                
+118001,SAN JOSE    ,CURRIDABAT            ,CURRIDABAT               
+201001,ALAJUELA    ,CENTRAL               ,ALAJUELA                 
+203001,ALAJUELA    ,GRECIA                ,GRECIA                   
+301001,CARTAGO     ,CENTRAL               ,ORIENTAL                 
+305001,CARTAGO     ,TURRIALBA             ,TURRIALBA                
+401001,HEREDIA     ,CENTRAL               ,HEREDIA                  
+403001,HEREDIA     ,SANTO DOMINGO         ,SANTO DOMINGO            
+501001,GUANACASTE  ,LIBERIA               ,LIBERIA                  
+601001,PUNTARENAS  ,CENTRAL               ,PUNTARENAS               
+701001,LIMON       ,CENTRAL               ,LIMON                    
